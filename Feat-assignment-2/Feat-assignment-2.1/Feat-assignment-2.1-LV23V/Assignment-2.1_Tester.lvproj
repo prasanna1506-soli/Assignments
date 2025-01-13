@@ -2,7 +2,6 @@
 <Project Type="Project" LVVersion="23008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
-		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,16 +11,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Control" Type="Folder">
-			<Item Name="Acc-data-array-of-cluster.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.2/Controls/Acc-data-array-of-cluster.ctl"/>
-			<Item Name="Search_option.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.2/Controls/Search_option.ctl"/>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Voltage_Configurations.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.1/Controls/Voltage_Configurations.ctl"/>
 		</Item>
-		<Item Name="Database_search.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.2/Database_search.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
-			</Item>
+		<Item Name="Sub_VIs" Type="Folder">
+			<Item Name="Is_Device_Functional.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.1/Sub_VI/Is_Device_Functional.vi"/>
 		</Item>
+		<Item Name="Tester.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.1/Tester.vi"/>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

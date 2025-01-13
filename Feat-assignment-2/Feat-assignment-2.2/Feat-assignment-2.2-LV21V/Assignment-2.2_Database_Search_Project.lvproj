@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="21008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -11,14 +12,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Controls" Type="Folder">
-			<Item Name="Voltage_Configurations.ctl" Type="VI" URL="../Controls/Voltage_Configurations.ctl"/>
+		<Item Name="Control" Type="Folder">
+			<Item Name="Acc_Data_Cluster.ctl" Type="VI" URL="../Controls/Acc_Data_Cluster.ctl"/>
+			<Item Name="Search_Option.ctl" Type="VI" URL="../Controls/Search_Option.ctl"/>
 		</Item>
-		<Item Name="SubVIs" Type="Folder">
-			<Item Name="Is_Device_Functional.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 2/Assign2.1/Sub_VI/Is_Device_Functional.vi"/>
+		<Item Name="Database_Search.vi" Type="VI" URL="../Database_Search.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+			</Item>
 		</Item>
-		<Item Name="Tester_VI.vi" Type="VI" URL="../Tester_VI.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
