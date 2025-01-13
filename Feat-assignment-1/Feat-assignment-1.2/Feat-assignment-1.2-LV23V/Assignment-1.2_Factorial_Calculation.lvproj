@@ -11,8 +11,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Factorial_calculation.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 1/Assign 2/Factorial_calculation.vi"/>
-		<Item Name="Factorial_calculator.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 1/Assign 2/Factorial_calculator.vi"/>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Operations.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 1/Assign 2/Controls/Operations.ctl"/>
+		</Item>
+		<Item Name="Sub_VI" Type="Folder">
+			<Item Name="Factorial_Calculation.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 1/Assign 2/Sub_VI/Factorial_Calculation.vi"/>
+		</Item>
+		<Item Name="Factorial_Calculator.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 1/Assign 2/Factorial_Calculator.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
