@@ -15,6 +15,7 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Control_Cluster.ctl" Type="VI" URL="../Controls/Control_Cluster.ctl"/>
 			<Item Name="Time_Display.ctl" Type="VI" URL="../Controls/Time_Display.ctl"/>
+			<Item Name="SR_Cluster.ctl" Type="VI" URL="../Controls/SR_Cluster.ctl"/>
 		</Item>
 		<Item Name="Stop_Watch.vi" Type="VI" URL="../Stop_Watch.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">

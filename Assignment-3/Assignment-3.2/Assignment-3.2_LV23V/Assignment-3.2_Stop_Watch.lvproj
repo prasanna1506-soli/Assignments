@@ -15,6 +15,7 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Control_Cluster.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 3/Assignment-3.2/Controls/Control_Cluster.ctl"/>
 			<Item Name="Time_Display.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 3/Assignment-3.2/Controls/Time_Display.ctl"/>
+			<Item Name="SR_Cluster.ctl" Type="VI" URL="../../../../../../Project files intern/Assignment 3/Assignment-3.2/Controls/SR_Cluster.ctl"/>
 		</Item>
 		<Item Name="Stop_Watch.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 3/Assignment-3.2/Stop_Watch.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
