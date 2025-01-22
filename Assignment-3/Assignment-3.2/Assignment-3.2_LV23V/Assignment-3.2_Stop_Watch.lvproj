@@ -35,6 +35,9 @@
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 			</Item>
+			<Item Name="Time_Converter.vi" Type="VI" URL="../SubVIs/Time_Converter.vi"/>
+			<Item Name="7_Segment_converter.vi" Type="VI" URL="../SubVIs/7_Segment_converter.vi"/>
+			<Item Name="SW_Controller.ctl" Type="VI" URL="../Controls/SW_Controller.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
