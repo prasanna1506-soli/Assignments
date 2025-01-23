@@ -12,16 +12,16 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CSV" Type="Folder">
-			<Item Name="Logger" Type="Document" URL="../../../../../../Project files intern/Assignment 4/CSV/Logger"/>
+			<Item Name="Logger.csv" Type="Document" URL="../CSV/Logger.csv"/>
 		</Item>
 		<Item Name="INI" Type="Folder">
-			<Item Name="Data_Store.ini" Type="Document" URL="../../../../../../Project files intern/Assignment 4/INI/Data_Store.ini"/>
-			<Item Name="Error_Percentage.ini" Type="Document" URL="../../../../../../Project files intern/Assignment 4/INI/Error_Percentage.ini"/>
+			<Item Name="Data_Store.ini" Type="Document" URL="../INI/Data_Store.ini"/>
+			<Item Name="Error_Percentage.ini" Type="Document" URL="../INI/Error_Percentage.ini"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
-			<Item Name="Sour_Meas_Instrument.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 4/SubVI/Sour_Meas_Instrument.vi"/>
+			<Item Name="Sour_Meas_Instrument.vi" Type="VI" URL="../SubVI/Sour_Meas_Instrument.vi"/>
 		</Item>
-		<Item Name="Main_Console.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 4/Main_Console.vi"/>
+		<Item Name="Main_Console.vi" Type="VI" URL="../Main_Console.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>

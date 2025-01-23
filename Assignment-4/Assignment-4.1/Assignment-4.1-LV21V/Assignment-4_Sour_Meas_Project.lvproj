@@ -12,7 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CSV" Type="Folder">
-			<Item Name="Logger" Type="Document" URL="../CSV/Logger"/>
+			<Item Name="Logger.csv" Type="Document" URL="../CSV/Logger.csv"/>
 		</Item>
 		<Item Name="INI" Type="Folder">
 			<Item Name="Data_Store.ini" Type="Document" URL="../INI/Data_Store.ini"/>
