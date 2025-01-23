@@ -19,6 +19,7 @@
 			<Item Name="Error_Percentage.ini" Type="Document" URL="../INI/Error_Percentage.ini"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Get_Error_Data.vi" Type="VI" URL="../SubVI/Get_Error_Data.vi"/>
 			<Item Name="Sour_Meas_Instrument.vi" Type="VI" URL="../SubVI/Sour_Meas_Instrument.vi"/>
 		</Item>
 		<Item Name="Main_Console.vi" Type="VI" URL="../Main_Console.vi"/>
