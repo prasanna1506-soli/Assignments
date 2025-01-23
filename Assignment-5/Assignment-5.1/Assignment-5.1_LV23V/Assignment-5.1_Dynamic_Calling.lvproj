@@ -12,10 +12,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SubVIs" Type="Folder">
-			<Item Name="Close_Popup.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 5/SubVIs/Close_Popup.vi"/>
+			<Item Name="Close_Popup.vi" Type="VI" URL="../SubVIs/Close_Popup.vi"/>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 5/Main.vi"/>
-		<Item Name="Popup.vi" Type="VI" URL="../../../../../../Project files intern/Assignment 5/Popup.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Popup.vi" Type="VI" URL="../Popup.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
