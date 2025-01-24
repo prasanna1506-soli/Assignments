@@ -14,7 +14,7 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Operation_Queue.ctl" Type="VI" URL="../Type_Def/Operation_Queue.ctl"/>
 			<Item Name="Operation_Simple_LV2.ctl" Type="VI" URL="../Type_Def/Operation_Simple_LV2.ctl"/>
-			<Item Name="Size_Pointer.ctl" Type="VI" URL="../Type_Def/Size_Pointer.ctl"/>
+			<Item Name="Queue_and_Pointer.ctl" Type="VI" URL="../Type_Def/Queue_and_Pointer.ctl"/>
 		</Item>
 		<Item Name="Global_Variable" Type="Folder">
 			<Item Name="Generate_Data_Global.vi" Type="VI" URL="../Global_Variables/Generate_Data_Global.vi"/>
