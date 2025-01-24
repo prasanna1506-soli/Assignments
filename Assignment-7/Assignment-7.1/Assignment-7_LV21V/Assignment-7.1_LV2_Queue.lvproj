@@ -23,6 +23,9 @@
 			<Item Name="Queue.vi" Type="VI" URL="../LV2/Queue.vi"/>
 			<Item Name="Simple_LV2.vi" Type="VI" URL="../LV2/Simple_LV2.vi"/>
 		</Item>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Run_Module.vi" Type="VI" URL="../SubVI/Run_Module.vi"/>
+		</Item>
 		<Item Name="Acquisition_a.vi" Type="VI" URL="../Acquisition_a.vi"/>
 		<Item Name="Acquisition_b.vi" Type="VI" URL="../Acquisition_b.vi"/>
 		<Item Name="Acquisition_c.vi" Type="VI" URL="../Acquisition_c.vi"/>
@@ -32,6 +35,7 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
