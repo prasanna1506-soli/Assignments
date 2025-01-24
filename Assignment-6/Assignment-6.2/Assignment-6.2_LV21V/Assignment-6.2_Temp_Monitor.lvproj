@@ -14,7 +14,6 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Alert.ctl" Type="VI" URL="../Controls/Alert.ctl"/>
 			<Item Name="Analysis_Data.ctl" Type="VI" URL="../Controls/Analysis_Data.ctl"/>
-			<Item Name="Start-Stop.ctl" Type="VI" URL="../Controls/Start-Stop.ctl"/>
 			<Item Name="Temperature_Thresholds.ctl" Type="VI" URL="../Controls/Temperature_Thresholds.ctl"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
@@ -29,6 +28,7 @@
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 			</Item>
+			<Item Name="Start-Stop.ctl" Type="VI" URL="../Controls/Start-Stop.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

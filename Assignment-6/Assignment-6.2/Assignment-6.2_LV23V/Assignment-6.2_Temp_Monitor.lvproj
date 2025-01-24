@@ -12,15 +12,14 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Controls" Type="Folder">
-			<Item Name="Alert.ctl" Type="VI" URL="../../../../../../Project files intern/assignment-6/Assignment-6.2/Controls/Alert.ctl"/>
-			<Item Name="Analysis_Data.ctl" Type="VI" URL="../../../../../../Project files intern/assignment-6/Assignment-6.2/Controls/Analysis_Data.ctl"/>
-			<Item Name="Start-Stop.ctl" Type="VI" URL="../../../../../../Project files intern/assignment-6/Assignment-6.2/Controls/Start-Stop.ctl"/>
-			<Item Name="Temperature_Thresholds.ctl" Type="VI" URL="../../../../../../Project files intern/assignment-6/Assignment-6.2/Controls/Temperature_Thresholds.ctl"/>
+			<Item Name="Alert.ctl" Type="VI" URL="../Controls/Alert.ctl"/>
+			<Item Name="Analysis_Data.ctl" Type="VI" URL="../Controls/Analysis_Data.ctl"/>
+			<Item Name="Temperature_Thresholds.ctl" Type="VI" URL="../Controls/Temperature_Thresholds.ctl"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
-			<Item Name="Temp_Generator.vi" Type="VI" URL="../../../../../../Project files intern/assignment-6/Assignment-6.2/SubVIs/Temp_Generator.vi"/>
+			<Item Name="Temp_Generator.vi" Type="VI" URL="../SubVIs/Temp_Generator.vi"/>
 		</Item>
-		<Item Name="Main_Module.vi" Type="VI" URL="../../../../../../Project files intern/assignment-6/Assignment-6.2/Main_Module.vi"/>
+		<Item Name="Main_Module.vi" Type="VI" URL="../Main_Module.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
@@ -29,6 +28,7 @@
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 			</Item>
+			<Item Name="Start-Stop.ctl" Type="VI" URL="../Controls/Start-Stop.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
