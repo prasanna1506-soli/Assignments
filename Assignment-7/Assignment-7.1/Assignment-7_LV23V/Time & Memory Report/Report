@@ -1,0 +1,83 @@
+
+
+Profile Data: all times in milliseconds, memory usage in kilobytes.
+Begin: 21 Jan 2025 12:28:36.
+End: 21 Jan 2025 12:29:08.
+	VI Time	Sub VIs Time	Total Time	# Runs	Average	Shortest	Longest	Diagram	Display	Draw	Tracking	Locals	Avg Bytes	Min Bytes	Max Bytes	Avg Blocks	Min Blocks	Max Blocks	Project Library	Application Instance
+Queue.vi	9.5	0.0	9.5	314	0.0	0.0	0.2	9.5	0.0	0.0	0.0	0.0	6.92k	6.89k	7.16k	0	0	1		My Computer
+Simple_LV2.vi	2.6	0.0	2.6	314	0.0	0.0	0.1	2.6	0.0	0.0	0.0	0.0	4.56k	4.56k	4.56k	0	0	0		My Computer
+Generate_Data_Global.vi	0.0	0.0	0.0	313	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01k	0.01k	0.01k	0	0	0		My Computer
+Acquisition_a.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Acquisition_b.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Acquisition_c.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Application Directory.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Convert property node font to graphics font.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Error Cluster From Error Code.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Generator_a.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Generator_b.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Generator_c.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Get String Text Bounds.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Get Text Rect.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Longest Line Length in Pixels.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+NI_FileType.lvlib:Get File Type.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0	NI_FileType.lvlib	My Computer
+NI_FileType.lvlib:Is File an LLB.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0	NI_FileType.lvlib	My Computer
+Random Number (Range) DBL.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Random Number (Range) I64.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Random Number (Range) U64.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Three Button Dialog CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+sub_Random U32.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+
+
+Expanded VI Data:
+Queue.vi	9.5	0.0	9.5	314	0.0	0.0	0.2	9.5	0.0	0.0	0.0	0.0	6.92k	6.89k	7.16k	0	0	1		My Computer
+Simple_LV2.vi	2.6	0.0	2.6	314	0.0	0.0	0.1	2.6	0.0	0.0	0.0	0.0	4.56k	4.56k	4.56k	0	0	0		My Computer
+Generate_Data_Global.vi	0.0	0.0	0.0	313	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01k	0.01k	0.01k	0	0	0		My Computer
+-->Generator_Data	0.0	0.0	0.0	313	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01k	0.01k	0.01k	0	0	0		My Computer
+Acquisition_a.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Generator_Data	0.0	0.0	0.0	156	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01k	0.01k	0.01k	0	0	0		My Computer
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Acquisition_b.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Simple_LV2.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Acquisition_c.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Application Directory.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Queue.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Application Directory.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->NI_FileType.lvlib:Is File an LLB.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0	NI_FileType.lvlib	My Computer
+Convert property node font to graphics font.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Error Cluster From Error Code.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Generator_a.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Generator_Data	0.0	0.0	0.0	157	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01k	0.01k	0.01k	0	0	0		My Computer
+-->Random Number (Range) DBL.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Generator_b.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Random Number (Range) DBL.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Simple_LV2.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Generator_c.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Application Directory.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Queue.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Random Number (Range) DBL.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Get String Text Bounds.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Get Text Rect.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Longest Line Length in Pixels.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Convert property node font to graphics font.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Get Text Rect.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+NI_FileType.lvlib:Get File Type.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0	NI_FileType.lvlib	My Computer
+-->Error Cluster From Error Code.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+NI_FileType.lvlib:Is File an LLB.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0	NI_FileType.lvlib	My Computer
+-->NI_FileType.lvlib:Get File Type.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0	NI_FileType.lvlib	My Computer
+Random Number (Range) DBL.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Random Number (Range) I64.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->sub_Random U32.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Random Number (Range) U64.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->sub_Random U32.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Three Button Dialog CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Get String Text Bounds.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Longest Line Length in Pixels.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+-->Three Button Dialog CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
+sub_Random U32.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		My Computer
