@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="23008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -11,10 +12,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Controls" Type="Folder">
-			<Item Name="Index_Select.ctl" Type="VI" URL="../Controls/Index_Select.ctl"/>
-			<Item Name="Indexes_Min_Max_Points.ctl" Type="VI" URL="../Controls/Indexes_Min_Max_Points.ctl"/>
-		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Capture_Index.vi" Type="VI" URL="../SubVIs/Capture_Index.vi"/>
 			<Item Name="Digitalizer.vi" Type="VI" URL="../SubVIs/Digitalizer.vi"/>
@@ -22,6 +19,10 @@
 			<Item Name="Get_Percentage_of_Amp.vi" Type="VI" URL="../SubVIs/Get_Percentage_of_Amp.vi"/>
 			<Item Name="Get_Rise_Fall_Time.vi" Type="VI" URL="../SubVIs/Get_Rise_Fall_Time.vi"/>
 			<Item Name="Get_Transition_Points.vi" Type="VI" URL="../SubVIs/Get_Transition_Points.vi"/>
+		</Item>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Index_Select.ctl" Type="VI" URL="../Controls/Index_Select.ctl"/>
+			<Item Name="Indexes_Min_Max_Points.ctl" Type="VI" URL="../Controls/Indexes_Min_Max_Points.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
