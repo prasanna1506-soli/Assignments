@@ -11,11 +11,19 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Last_Error_Details.ctl" Type="VI" URL="../Controls/Last_Error_Details.ctl"/>
+			<Item Name="Obtained_PSRR_Data.ctl" Type="VI" URL="../Controls/Obtained_PSRR_Data.ctl"/>
+		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Synchronous_PSRR_Meter.vi" Type="VI" URL="/C/Users/prasanna.alagesan/Downloads/Synchronous_PSRR_Meter.vi"/>
 		</Item>
+		<Item Name="BI_Error.ctl" Type="VI" URL="../Controls/BI_Error.ctl"/>
+		<Item Name="BI_Error_Con.ctl" Type="VI" URL="../Controls/BI_Error_Con.ctl"/>
 		<Item Name="Core_Module.vi" Type="VI" URL="../Core_Module.vi"/>
+		<Item Name="Error" Type="VI" URL="../Controls/Error"/>
 		<Item Name="Main_UI.vi" Type="VI" URL="../Main_UI.vi"/>
+		<Item Name="teszt.vi" Type="VI" URL="../teszt.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
