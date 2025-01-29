@@ -11,7 +11,7 @@ Contains 6 different functional VIs.</Property>
 </Property>
 	<Item Name="Library_Controls" Type="Folder">
 		<Item Name="Mode.ctl" Type="VI" URL="../Library_Controls/Mode.ctl"/>
-		<Item Name="Order (Z to A).ctl" Type="VI" URL="../Library_Controls/Order (Z to A).ctl"/>
+		<Item Name="Order.ctl" Type="VI" URL="../Library_Controls/Order.ctl"/>
 	</Item>
 	<Item Name="Block_User_Interaction.vi" Type="VI" URL="../Block_User_Interaction.vi"/>
 	<Item Name="Get_Folder_Details.vi" Type="VI" URL="../Get_Folder_Details.vi"/>

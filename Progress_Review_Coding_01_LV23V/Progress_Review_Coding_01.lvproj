@@ -18,8 +18,10 @@
 			<Item Name="Get_Table.vi" Type="VI" URL="../SubVI/Get_Table.vi"/>
 			<Item Name="Is_Path.vi" Type="VI" URL="../SubVI/Is_Path.vi"/>
 		</Item>
+		<Item Name="Utilities" Type="Folder">
+			<Item Name="Store_File_data.vi" Type="VI" URL="../Library/Store_File_data.vi"/>
+		</Item>
 		<Item Name="Main_Console.vi" Type="VI" URL="../Main_Console.vi"/>
-		<Item Name="Store_File_data.vi" Type="VI" URL="../Library/Store_File_data.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>

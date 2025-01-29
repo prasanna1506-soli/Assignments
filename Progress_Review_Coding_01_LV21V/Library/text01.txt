@@ -1,12 +1,8 @@
-C:\Program Files\National Instruments\LabVIEW 2020
-C:\Program Files\National Instruments\LabVIEW 2021
-C:\Program Files\National Instruments\LabVIEW 2022
-C:\Program Files\National Instruments\LabVIEW 2023
-C:\Program Files\National Instruments\MAX
-C:\Program Files\National Instruments\MXI
-C:\Program Files\National Instruments\NI Controller Driver
-C:\Program Files\National Instruments\NI Package Manager
-C:\Program Files\National Instruments\NI-DAQ
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Block_User_Mode.ctl
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Folder_or_File.ctl
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Mode.ctl
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Order.ctl
+gram Files\National Instruments\NI-DAQ
 C:\Program Files\National Instruments\NI-PCNet
 C:\Program Files\National Instruments\NI-QPXI
 C:\Program Files\National Instruments\NI-Sync
