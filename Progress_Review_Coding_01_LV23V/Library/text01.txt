@@ -1,0 +1,13 @@
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Block_User_Mode.ctl
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Folder_or_File.ctl
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Mode.ctl
+D:\Project Git file\Assignments\Progress_Review_Coding_01_LV23V\Library\Library_Controls\Order.ctl
+gram Files\National Instruments\NI-DAQ
+C:\Program Files\National Instruments\NI-PCNet
+C:\Program Files\National Instruments\NI-QPXI
+C:\Program Files\National Instruments\NI-Sync
+C:\Program Files\National Instruments\NI-SyncBus
+C:\Program Files\National Instruments\NI-SyncEnet
+C:\Program Files\National Instruments\NI-TSU
+C:\Program Files\National Instruments\PXI Platform Services
+C:\Program Files\National Instruments\Shared
