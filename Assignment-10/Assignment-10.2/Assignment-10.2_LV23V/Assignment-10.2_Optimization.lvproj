@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Calculate F(x) - Optimized (1).vi" Type="VI" URL="../Calculate F(x) - Optimized (1).vi"/>
+		<Item Name="Calculate F(x) - outputs.vi" Type="VI" URL="../Calculate F(x) - outputs.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
