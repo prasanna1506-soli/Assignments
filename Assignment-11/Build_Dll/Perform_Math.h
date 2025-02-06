@@ -9,7 +9,7 @@ typedef uint16_t  Operation;
 #define Operation_Div 3
 
 /*!
- * Perform_Math
+ * This VI Performs the Math functions.
  */
 double __cdecl Perform_Math(double Input_1, double Input_2, 
 	Operation Operation);
