@@ -1,0 +1,23 @@
+Acquired Data :87, Time : 07-02-2025 09:13:13
+Acquired Data :45, Time : 07-02-2025 09:13:13
+Acquired Data :50, Time : 07-02-2025 09:13:13
+Acquired Data :32, Time : 07-02-2025 09:13:13
+Acquired Data :55, Time : 07-02-2025 09:13:13
+Acquired Data :44, Time : 07-02-2025 09:13:13
+Acquired Data :7, Time : 07-02-2025 09:13:13
+Acquired Data :10, Time : 07-02-2025 09:13:13
+Acquired Data :71, Time : 07-02-2025 09:13:13
+Acquired Data :3, Time : 07-02-2025 09:13:13
+Acquired Data :40, Time : 07-02-2025 09:13:13
+Acquired Data :77, Time : 07-02-2025 09:13:13
+Acquired Data :77, Time : 07-02-2025 09:13:13
+Acquired Data :30, Time : 07-02-2025 09:13:14
+Acquired Data :45, Time : 07-02-2025 09:13:14
+Acquired Data :26, Time : 07-02-2025 09:13:14
+Acquired Data :13, Time : 07-02-2025 09:19:00
+Acquired Data :14, Time : 07-02-2025 09:19:00
+Acquired Data :75, Time : 07-02-2025 09:19:00
+Acquired Data :0, Time : 
+Acquired Data :57, Time : 07-02-2025 09:19:00
+Acquired Data :7, Time : 07-02-2025 09:19:00
+Acquired Data :41, Time : 07-02-2025 09:19:00
