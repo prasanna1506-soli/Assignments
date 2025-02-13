@@ -25,24 +25,23 @@
 				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{85602B6B-854C-4607-8AD1-D647F07E1882}</Property>
+				<Property Name="Bld_buildSpecDescription" Type="Str">This DLL will perform the simple math functions like ADD SUB MUL and DIV.</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Perform Math Assembly</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../Build_.Net_Dll</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6E8295EC-B474-4768-8D9A-C64336EFB347}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Perform_Math_Assembly.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build_.Net_Dll/Perform_Math_Assembly.dll</Property>
-				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../Build_.Net_Dll/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="DotNET2011CompatibilityMode" Type="Bool">false</Property>
 				<Property Name="DotNETAssembly_ClassName" Type="Str">LabVIEWExports</Property>
@@ -51,7 +50,7 @@
 				<Property Name="DotNETAssembly_signAssembly" Type="Bool">false</Property>
 				<Property Name="DotNETAssembly_StrongNameKeyFileItemID" Type="Ref">/</Property>
 				<Property Name="DotNETAssembly_StrongNameKeyGUID" Type="Str">{CBDBBB7C-CB88-458D-9838-CA4113F25E6B}</Property>
-				<Property Name="Source[0].itemID" Type="Str">{457B8757-03E5-4424-956D-9644301DF981}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{02BCC151-AFD6-48C5-922C-1C07C069C17E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].ExportedAssemblyVI.VIProtoInfo[0]VIProtoConNum" Type="Int">4</Property>
@@ -101,7 +100,9 @@
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_companyName" Type="Str">Soliton Technologies Pvt Ltd</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">Perform Math Assembly</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Perform Math Assembly
+
+This DLL will perform the simple math functions like ADD SUB MUL and DIV.</Property>
 				<Property Name="TgtF_internalName" Type="Str">Perform Math Assembly</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 Soliton Technologies Pvt Ltd</Property>
 				<Property Name="TgtF_productName" Type="Str">Perform Math Assembly</Property>
@@ -117,31 +118,30 @@
 				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{8537B92E-6D35-410B-B299-9F6FE90F4C66}</Property>
+				<Property Name="Bld_buildSpecDescription" Type="Str">This DLL will perform the simple math functions like ADD SUB MUL and DIV.</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Perform Math DLL</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../Build_Dll</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{0AD3A9FB-4E9A-4AA4-A58B-9EDC6F70C688}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Perform_Math.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build_Dll/Perform_Math.dll</Property>
-				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../Build_Dll/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Dll_compatibilityWith2011" Type="Bool">false</Property>
 				<Property Name="Dll_delayOSMsg" Type="Bool">true</Property>
 				<Property Name="Dll_headerGUID" Type="Str">{4BFC1DB8-7FED-4CC3-AF94-9990E3CB1B7C}</Property>
 				<Property Name="Dll_libGUID" Type="Str">{8398204D-8CF4-4CDF-B36D-C41115AB89F0}</Property>
 				<Property Name="Dll_privateExecSys" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{457B8757-03E5-4424-956D-9644301DF981}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{02BCC151-AFD6-48C5-922C-1C07C069C17E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].ExportedVI.VIProtoInfo[0]VIProtoDir" Type="Int">1</Property>
