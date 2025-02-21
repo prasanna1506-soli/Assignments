@@ -20,8 +20,8 @@
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Chart_Module.vi" Type="VI" URL="../Chart_Module.vi"/>
-		<Item Name="Slider_Module.vi" Type="VI" URL="../Slider_Module.vi"/>
+		<Item Name="Display.vi" Type="VI" URL="../Display.vi"/>
+		<Item Name="Slider_Recorder.vi" Type="VI" URL="../Slider_Recorder.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
