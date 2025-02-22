@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>Perform_Math_Assembly</name>
+  </assembly>
+  <members>
+    <member name="M:InteropAssembly.LabVIEWExports.Perform_Math(System.Double,System.Double,InteropAssembly.Operation)">
+      <summary></summary>
+      <returns>System.Double</returns>
+    </member>
+  </members>
+</doc>
