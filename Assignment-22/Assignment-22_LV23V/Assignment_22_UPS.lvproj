@@ -24,6 +24,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="DAQ_System.vi" Type="VI" URL="../DAQ_System.vi"/>
+		<Item Name="Logger.csv" Type="Document" URL="../Logger.csv"/>
 		<Item Name="UPS_Monitor.vi" Type="VI" URL="../UPS_Monitor.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
