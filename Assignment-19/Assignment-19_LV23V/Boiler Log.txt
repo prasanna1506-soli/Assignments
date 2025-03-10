@@ -1,0 +1,813 @@
+Time String,Event String,Event data String
+10-03-2025 22:39:30,Boiler Initialized,0
+10-03-2025 22:39:34,Boiler Ready,0
+10-03-2025 22:39:35,Start Pre-Purge,0.000000
+10-03-2025 22:39:35,Start Pre-Purge,0.098909
+10-03-2025 22:39:35,Start Pre-Purge,0.198973
+10-03-2025 22:39:35,Start Pre-Purge,0.298283
+10-03-2025 22:39:35,Start Pre-Purge,0.399389
+10-03-2025 22:39:35,Start Pre-Purge,0.499172
+10-03-2025 22:39:35,Start Pre-Purge,0.599246
+10-03-2025 22:39:35,Start Pre-Purge,0.699284
+10-03-2025 22:39:35,Start Pre-Purge,0.799542
+10-03-2025 22:39:35,Start Pre-Purge,0.899774
+10-03-2025 22:39:35,Start Pre-Purge,1.001183
+10-03-2025 22:39:35,Start Pre-Purge,1.101199
+10-03-2025 22:39:35,Start Pre-Purge,1.200965
+10-03-2025 22:39:35,Start Pre-Purge,1.301898
+10-03-2025 22:39:35,Start Pre-Purge,1.402212
+10-03-2025 22:39:35,Start Pre-Purge,1.503056
+10-03-2025 22:39:35,Start Pre-Purge,1.603770
+10-03-2025 22:39:35,Start Pre-Purge,1.703847
+10-03-2025 22:39:35,Start Pre-Purge,1.804435
+10-03-2025 22:39:35,Start Pre-Purge,1.904136
+10-03-2025 22:39:35,Start Pre-Purge,2.005564
+10-03-2025 22:39:35,Start Pre-Purge,2.106271
+10-03-2025 22:39:35,Start Pre-Purge,2.207178
+10-03-2025 22:39:35,Start Pre-Purge,2.307446
+10-03-2025 22:39:35,Start Pre-Purge,2.407471
+10-03-2025 22:39:35,Start Pre-Purge,2.507696
+10-03-2025 22:39:35,Start Pre-Purge,2.608025
+10-03-2025 22:39:35,Start Pre-Purge,2.709238
+10-03-2025 22:39:35,Start Pre-Purge,2.809319
+10-03-2025 22:39:35,Start Pre-Purge,2.909534
+10-03-2025 22:39:35,Start Pre-Purge,3.009548
+10-03-2025 22:39:35,Start Pre-Purge,3.109864
+10-03-2025 22:39:35,Start Pre-Purge,3.209846
+10-03-2025 22:39:35,Start Pre-Purge,3.311766
+10-03-2025 22:39:35,Start Pre-Purge,3.411850
+10-03-2025 22:39:35,Start Pre-Purge,3.512349
+10-03-2025 22:39:35,Start Pre-Purge,3.612208
+10-03-2025 22:39:35,Start Pre-Purge,3.712169
+10-03-2025 22:39:35,Start Pre-Purge,3.813615
+10-03-2025 22:39:35,Start Pre-Purge,3.912945
+10-03-2025 22:39:35,Start Pre-Purge,4.013963
+10-03-2025 22:39:35,Start Pre-Purge,4.115213
+10-03-2025 22:39:35,Start Pre-Purge,4.215424
+10-03-2025 22:39:35,Start Pre-Purge,4.315548
+10-03-2025 22:39:35,Start Pre-Purge,4.415407
+10-03-2025 22:39:35,Start Pre-Purge,4.515513
+10-03-2025 22:39:35,Start Pre-Purge,4.616060
+10-03-2025 22:39:35,Start Pre-Purge,4.717633
+10-03-2025 22:39:35,Start Pre-Purge,4.817444
+10-03-2025 22:39:35,Start Pre-Purge,4.917597
+10-03-2025 22:39:35,Start Pre-Purge,5.017997
+10-03-2025 22:39:35,Start Pre-Purge,5.119139
+10-03-2025 22:39:35,Start Pre-Purge,5.219222
+10-03-2025 22:39:35,Start Pre-Purge,5.319250
+10-03-2025 22:39:35,Start Pre-Purge,5.420542
+10-03-2025 22:39:35,Start Pre-Purge,5.520229
+10-03-2025 22:39:35,Start Pre-Purge,5.620664
+10-03-2025 22:39:35,Start Pre-Purge,5.721869
+10-03-2025 22:39:35,Start Pre-Purge,5.821731
+10-03-2025 22:39:35,Start Pre-Purge,5.922731
+10-03-2025 22:39:35,Start Pre-Purge,6.024561
+10-03-2025 22:39:35,Start Pre-Purge,6.123961
+10-03-2025 22:39:35,Start Pre-Purge,6.225621
+10-03-2025 22:39:35,Start Pre-Purge,6.326582
+10-03-2025 22:39:35,Start Pre-Purge,6.426991
+10-03-2025 22:39:35,Start Pre-Purge,6.528639
+10-03-2025 22:39:35,Start Pre-Purge,6.629494
+10-03-2025 22:39:35,Start Pre-Purge,6.730912
+10-03-2025 22:39:35,Start Pre-Purge,6.832124
+10-03-2025 22:39:35,Start Pre-Purge,6.932484
+10-03-2025 22:39:35,Start Pre-Purge,7.033424
+10-03-2025 22:39:35,Start Pre-Purge,7.134440
+10-03-2025 22:39:35,Start Pre-Purge,7.235429
+10-03-2025 22:39:35,Start Pre-Purge,7.336386
+10-03-2025 22:39:35,Start Pre-Purge,7.436688
+10-03-2025 22:39:35,Start Pre-Purge,7.535997
+10-03-2025 22:39:35,Start Pre-Purge,7.637594
+10-03-2025 22:39:35,Start Pre-Purge,7.738119
+10-03-2025 22:39:35,Start Pre-Purge,7.839162
+10-03-2025 22:39:35,Start Pre-Purge,7.939579
+10-03-2025 22:39:35,Start Pre-Purge,8.040949
+10-03-2025 22:39:35,Start Pre-Purge,8.141542
+10-03-2025 22:39:35,Start Pre-Purge,8.241261
+10-03-2025 22:39:35,Start Pre-Purge,8.342349
+10-03-2025 22:39:35,Start Pre-Purge,8.443403
+10-03-2025 22:39:35,Start Pre-Purge,8.544512
+10-03-2025 22:39:35,Start Pre-Purge,8.644806
+10-03-2025 22:39:35,Start Pre-Purge,8.744436
+10-03-2025 22:39:35,Start Pre-Purge,8.845568
+10-03-2025 22:39:35,Start Pre-Purge,8.946445
+10-03-2025 22:39:35,Start Pre-Purge,9.047645
+10-03-2025 22:39:35,Start Pre-Purge,9.147874
+10-03-2025 22:39:35,Start Pre-Purge,9.247477
+10-03-2025 22:39:35,Start Pre-Purge,9.348181
+10-03-2025 22:39:35,Start Pre-Purge,9.448257
+10-03-2025 22:39:35,Start Pre-Purge,9.548724
+10-03-2025 22:39:35,Start Pre-Purge,9.650883
+10-03-2025 22:39:35,Start Pre-Purge,9.751494
+10-03-2025 22:39:35,Start Pre-Purge,9.851981
+10-03-2025 22:39:35,Start Pre-Purge,9.952638
+10-03-2025 22:39:45,Pre-Purge Completed,0.000000
+10-03-2025 22:39:47,Pilot On,True
+10-03-2025 22:39:49,Pilot Proved,57.142857
+10-03-2025 22:39:51,Forced Draft Fan On,True
+10-03-2025 22:39:53,Boiler Running,13.027133
+10-03-2025 22:39:53,Boiler Running,14.116955
+10-03-2025 22:39:53,Boiler Running,14.902547
+10-03-2025 22:39:53,Boiler Running,15.708007
+10-03-2025 22:39:53,Boiler Running,16.531696
+10-03-2025 22:39:53,Boiler Running,16.315167
+10-03-2025 22:39:53,Boiler Running,17.187796
+10-03-2025 22:39:53,Boiler Running,18.854317
+10-03-2025 22:39:53,Boiler Running,19.715367
+10-03-2025 22:39:53,Boiler Running,20.720559
+10-03-2025 22:39:53,Boiler Running,22.790454
+10-03-2025 22:39:53,Boiler Running,23.845338
+10-03-2025 22:39:54,Boiler Running,26.133510
+10-03-2025 22:39:54,Boiler Running,26.370602
+10-03-2025 22:39:54,Boiler Running,27.479973
+10-03-2025 22:39:54,Boiler Running,28.558061
+10-03-2025 22:39:54,Boiler Running,31.064051
+10-03-2025 22:39:54,Boiler Running,31.569210
+10-03-2025 22:39:54,Boiler Running,32.127519
+10-03-2025 22:39:54,Boiler Running,33.854459
+10-03-2025 22:39:54,Boiler Running,34.892404
+10-03-2025 22:39:54,Boiler Running,37.474911
+10-03-2025 22:39:54,Boiler Running,39.319023
+10-03-2025 22:39:54,Boiler Running,40.161278
+10-03-2025 22:39:54,Boiler Running,41.149340
+10-03-2025 22:39:54,Boiler Running,42.213576
+10-03-2025 22:39:54,Boiler Running,45.224724
+10-03-2025 22:39:54,Boiler Running,46.989036
+10-03-2025 22:39:54,Boiler Running,51.130425
+10-03-2025 22:39:55,Boiler Running,52.578506
+10-03-2025 22:39:55,Boiler Running,53.816793
+10-03-2025 22:39:57,Start Shutdown Purge,0.097127
+10-03-2025 22:39:57,Start Shutdown Purge,0.198504
+10-03-2025 22:39:57,Start Shutdown Purge,0.298396
+10-03-2025 22:39:57,Start Shutdown Purge,0.398915
+10-03-2025 22:39:57,Start Shutdown Purge,0.498693
+10-03-2025 22:39:57,Start Shutdown Purge,0.599340
+10-03-2025 22:39:57,Start Shutdown Purge,0.699209
+10-03-2025 22:39:57,Start Shutdown Purge,0.800392
+10-03-2025 22:39:57,Start Shutdown Purge,0.901144
+10-03-2025 22:39:57,Start Shutdown Purge,1.002051
+10-03-2025 22:39:57,Start Shutdown Purge,1.103666
+10-03-2025 22:39:57,Start Shutdown Purge,1.203792
+10-03-2025 22:39:57,Start Shutdown Purge,1.303174
+10-03-2025 22:39:57,Start Shutdown Purge,1.404114
+10-03-2025 22:39:57,Start Shutdown Purge,1.505509
+10-03-2025 22:39:57,Start Shutdown Purge,1.606183
+10-03-2025 22:39:57,Start Shutdown Purge,1.706508
+10-03-2025 22:39:57,Start Shutdown Purge,1.806490
+10-03-2025 22:39:57,Start Shutdown Purge,1.906584
+10-03-2025 22:39:57,Start Shutdown Purge,2.006140
+10-03-2025 22:39:57,Start Shutdown Purge,2.107524
+10-03-2025 22:39:57,Start Shutdown Purge,2.208045
+10-03-2025 22:39:57,Start Shutdown Purge,2.308059
+10-03-2025 22:39:57,Start Shutdown Purge,2.409028
+10-03-2025 22:39:57,Start Shutdown Purge,2.510359
+10-03-2025 22:39:57,Start Shutdown Purge,2.611435
+10-03-2025 22:39:57,Start Shutdown Purge,2.712052
+10-03-2025 22:39:57,Start Shutdown Purge,2.812033
+10-03-2025 22:39:57,Start Shutdown Purge,2.913846
+10-03-2025 22:39:57,Start Shutdown Purge,3.020651
+10-03-2025 22:39:57,Start Shutdown Purge,3.121773
+10-03-2025 22:39:57,Start Shutdown Purge,3.221610
+10-03-2025 22:39:57,Start Shutdown Purge,3.321073
+10-03-2025 22:39:57,Start Shutdown Purge,3.421650
+10-03-2025 22:39:57,Start Shutdown Purge,3.521065
+10-03-2025 22:39:57,Start Shutdown Purge,3.622235
+10-03-2025 22:39:57,Start Shutdown Purge,3.723071
+10-03-2025 22:39:57,Start Shutdown Purge,3.823873
+10-03-2025 22:39:57,Start Shutdown Purge,3.925005
+10-03-2025 22:39:57,Start Shutdown Purge,4.024983
+10-03-2025 22:39:57,Start Shutdown Purge,4.127102
+10-03-2025 22:39:57,Start Shutdown Purge,4.227824
+10-03-2025 22:39:57,Start Shutdown Purge,4.327564
+10-03-2025 22:39:57,Start Shutdown Purge,4.427294
+10-03-2025 22:39:57,Start Shutdown Purge,4.529069
+10-03-2025 22:39:57,Start Shutdown Purge,4.629216
+10-03-2025 22:39:57,Start Shutdown Purge,4.730139
+10-03-2025 22:39:57,Start Shutdown Purge,4.830817
+10-03-2025 22:39:57,Start Shutdown Purge,4.930856
+10-03-2025 22:39:57,Start Shutdown Purge,5.030233
+10-03-2025 22:39:57,Start Shutdown Purge,5.130498
+10-03-2025 22:39:57,Start Shutdown Purge,5.230306
+10-03-2025 22:39:57,Start Shutdown Purge,5.330104
+10-03-2025 22:39:57,Start Shutdown Purge,5.431551
+10-03-2025 22:39:57,Start Shutdown Purge,5.532326
+10-03-2025 22:39:57,Start Shutdown Purge,5.632286
+10-03-2025 22:39:57,Start Shutdown Purge,5.732290
+10-03-2025 22:39:57,Start Shutdown Purge,5.833750
+10-03-2025 22:39:57,Start Shutdown Purge,5.933922
+10-03-2025 22:39:57,Start Shutdown Purge,6.033304
+10-03-2025 22:39:57,Start Shutdown Purge,6.133884
+10-03-2025 22:39:57,Start Shutdown Purge,6.233033
+10-03-2025 22:39:57,Start Shutdown Purge,6.333217
+10-03-2025 22:39:57,Start Shutdown Purge,6.435051
+10-03-2025 22:39:57,Start Shutdown Purge,6.534563
+10-03-2025 22:39:57,Start Shutdown Purge,6.635006
+10-03-2025 22:39:57,Start Shutdown Purge,6.736421
+10-03-2025 22:39:57,Start Shutdown Purge,6.837594
+10-03-2025 22:39:57,Start Shutdown Purge,6.937910
+10-03-2025 22:39:57,Start Shutdown Purge,7.037961
+10-03-2025 22:39:57,Start Shutdown Purge,7.138696
+10-03-2025 22:39:57,Start Shutdown Purge,7.238808
+10-03-2025 22:39:57,Start Shutdown Purge,7.339710
+10-03-2025 22:39:57,Start Shutdown Purge,7.439040
+10-03-2025 22:39:57,Start Shutdown Purge,7.539834
+10-03-2025 22:39:57,Start Shutdown Purge,7.639058
+10-03-2025 22:39:57,Start Shutdown Purge,7.740502
+10-03-2025 22:39:57,Start Shutdown Purge,7.841210
+10-03-2025 22:39:57,Start Shutdown Purge,7.942043
+10-03-2025 22:39:57,Start Shutdown Purge,8.041468
+10-03-2025 22:39:57,Start Shutdown Purge,8.141169
+10-03-2025 22:39:57,Start Shutdown Purge,8.242261
+10-03-2025 22:39:57,Start Shutdown Purge,8.342793
+10-03-2025 22:39:57,Start Shutdown Purge,8.442358
+10-03-2025 22:39:57,Start Shutdown Purge,8.543676
+10-03-2025 22:39:57,Start Shutdown Purge,8.643588
+10-03-2025 22:39:57,Start Shutdown Purge,8.743114
+10-03-2025 22:39:57,Start Shutdown Purge,8.843132
+10-03-2025 22:39:57,Start Shutdown Purge,8.944538
+10-03-2025 22:39:57,Start Shutdown Purge,9.044019
+10-03-2025 22:39:57,Start Shutdown Purge,9.144620
+10-03-2025 22:39:57,Start Shutdown Purge,9.244128
+10-03-2025 22:39:57,Start Shutdown Purge,9.344888
+10-03-2025 22:39:57,Start Shutdown Purge,9.444587
+10-03-2025 22:39:57,Start Shutdown Purge,9.545886
+10-03-2025 22:39:57,Start Shutdown Purge,9.645518
+10-03-2025 22:39:57,Start Shutdown Purge,9.745054
+10-03-2025 22:39:57,Start Shutdown Purge,9.846872
+10-03-2025 22:39:57,Start Shutdown Purge,9.946794
+10-03-2025 22:40:07,Boiler Initialized,0
+Time String,Event String,Event data String
+10-03-2025 22:44:39,Boiler Initialized,0
+10-03-2025 22:44:41,Boiler Ready,0
+10-03-2025 22:44:42,Start Pre-Purge,0.000000
+10-03-2025 22:44:42,Start Pre-Purge,0.101238
+10-03-2025 22:44:42,Start Pre-Purge,0.202606
+10-03-2025 22:44:42,Start Pre-Purge,0.302421
+10-03-2025 22:44:42,Start Pre-Purge,0.402644
+10-03-2025 22:44:42,Start Pre-Purge,0.504378
+10-03-2025 22:44:42,Start Pre-Purge,0.603960
+10-03-2025 22:44:42,Start Pre-Purge,0.704222
+10-03-2025 22:44:42,Start Pre-Purge,0.804114
+10-03-2025 22:44:42,Start Pre-Purge,0.905060
+10-03-2025 22:44:42,Start Pre-Purge,1.006658
+10-03-2025 22:44:42,Start Pre-Purge,1.105916
+10-03-2025 22:44:42,Start Pre-Purge,1.207180
+10-03-2025 22:44:42,Start Pre-Purge,1.308046
+10-03-2025 22:44:42,Start Pre-Purge,1.409483
+10-03-2025 22:44:42,Start Pre-Purge,1.508962
+10-03-2025 22:44:42,Start Pre-Purge,1.608784
+10-03-2025 22:44:42,Start Pre-Purge,1.708749
+10-03-2025 22:44:42,Start Pre-Purge,1.810009
+10-03-2025 22:44:42,Start Pre-Purge,1.910047
+10-03-2025 22:44:42,Start Pre-Purge,2.011620
+10-03-2025 22:44:42,Start Pre-Purge,2.110882
+10-03-2025 22:44:42,Start Pre-Purge,2.214165
+10-03-2025 22:44:42,Start Pre-Purge,2.315702
+10-03-2025 22:44:42,Start Pre-Purge,2.415453
+10-03-2025 22:44:42,Start Pre-Purge,2.515836
+10-03-2025 22:44:42,Start Pre-Purge,2.616894
+10-03-2025 22:44:42,Start Pre-Purge,2.718144
+10-03-2025 22:44:42,Start Pre-Purge,2.818880
+10-03-2025 22:44:42,Start Pre-Purge,2.920401
+10-03-2025 22:44:42,Start Pre-Purge,3.021897
+10-03-2025 22:44:42,Start Pre-Purge,3.122672
+10-03-2025 22:44:42,Start Pre-Purge,3.223383
+10-03-2025 22:44:42,Start Pre-Purge,3.324433
+10-03-2025 22:44:42,Start Pre-Purge,3.424562
+10-03-2025 22:44:42,Start Pre-Purge,3.525886
+10-03-2025 22:44:42,Start Pre-Purge,3.625921
+10-03-2025 22:44:42,Start Pre-Purge,3.726883
+10-03-2025 22:44:42,Start Pre-Purge,3.826984
+10-03-2025 22:44:42,Start Pre-Purge,3.927055
+10-03-2025 22:44:42,Start Pre-Purge,4.028154
+10-03-2025 22:44:42,Start Pre-Purge,4.129092
+10-03-2025 22:44:42,Start Pre-Purge,4.230098
+10-03-2025 22:44:42,Start Pre-Purge,4.330847
+10-03-2025 22:44:42,Start Pre-Purge,4.431104
+10-03-2025 22:44:42,Start Pre-Purge,4.531180
+10-03-2025 22:44:42,Start Pre-Purge,4.630893
+10-03-2025 22:44:42,Start Pre-Purge,4.731191
+10-03-2025 22:44:42,Start Pre-Purge,4.831494
+10-03-2025 22:44:42,Start Pre-Purge,4.932736
+10-03-2025 22:44:42,Start Pre-Purge,5.032060
+10-03-2025 22:44:42,Start Pre-Purge,5.132883
+10-03-2025 22:44:42,Start Pre-Purge,5.232405
+10-03-2025 22:44:42,Start Pre-Purge,5.333213
+10-03-2025 22:44:42,Start Pre-Purge,5.433152
+10-03-2025 22:44:42,Start Pre-Purge,5.533696
+10-03-2025 22:44:42,Start Pre-Purge,5.635374
+10-03-2025 22:44:42,Start Pre-Purge,5.736818
+10-03-2025 22:44:42,Start Pre-Purge,5.837333
+10-03-2025 22:44:42,Start Pre-Purge,5.937309
+10-03-2025 22:44:42,Start Pre-Purge,6.037778
+10-03-2025 22:44:42,Start Pre-Purge,6.138738
+10-03-2025 22:44:42,Start Pre-Purge,6.238085
+10-03-2025 22:44:42,Start Pre-Purge,6.338018
+10-03-2025 22:44:42,Start Pre-Purge,6.438565
+10-03-2025 22:44:42,Start Pre-Purge,6.539102
+10-03-2025 22:44:42,Start Pre-Purge,6.640042
+10-03-2025 22:44:42,Start Pre-Purge,6.741112
+10-03-2025 22:44:42,Start Pre-Purge,6.842239
+10-03-2025 22:44:42,Start Pre-Purge,6.942168
+10-03-2025 22:44:42,Start Pre-Purge,7.043762
+10-03-2025 22:44:42,Start Pre-Purge,7.144136
+10-03-2025 22:44:42,Start Pre-Purge,7.244053
+10-03-2025 22:44:42,Start Pre-Purge,7.344202
+10-03-2025 22:44:42,Start Pre-Purge,7.443813
+10-03-2025 22:44:42,Start Pre-Purge,7.545163
+10-03-2025 22:44:42,Start Pre-Purge,7.645744
+10-03-2025 22:44:42,Start Pre-Purge,7.747621
+10-03-2025 22:44:42,Start Pre-Purge,7.848029
+10-03-2025 22:44:42,Start Pre-Purge,7.948821
+10-03-2025 22:44:42,Start Pre-Purge,8.048443
+10-03-2025 22:44:42,Start Pre-Purge,8.150682
+10-03-2025 22:44:42,Start Pre-Purge,8.252468
+10-03-2025 22:44:42,Start Pre-Purge,8.352923
+10-03-2025 22:44:42,Start Pre-Purge,8.453303
+10-03-2025 22:44:42,Start Pre-Purge,8.554307
+10-03-2025 22:44:42,Start Pre-Purge,8.654217
+10-03-2025 22:44:42,Start Pre-Purge,8.753925
+10-03-2025 22:44:42,Start Pre-Purge,8.854338
+10-03-2025 22:44:42,Start Pre-Purge,8.954165
+10-03-2025 22:44:42,Start Pre-Purge,9.054274
+10-03-2025 22:44:42,Start Pre-Purge,9.154354
+10-03-2025 22:44:42,Start Pre-Purge,9.254673
+10-03-2025 22:44:42,Start Pre-Purge,9.355435
+10-03-2025 22:44:42,Start Pre-Purge,9.455204
+10-03-2025 22:44:42,Start Pre-Purge,9.555835
+10-03-2025 22:44:42,Start Pre-Purge,9.656546
+10-03-2025 22:44:42,Start Pre-Purge,9.756693
+10-03-2025 22:44:42,Start Pre-Purge,9.857564
+10-03-2025 22:44:42,Start Pre-Purge,9.957415
+10-03-2025 22:44:52,Pre-Purge Completed,10.061026
+10-03-2025 22:44:53,Pilot On,True
+Time String,Event String,Event data String
+10-03-2025 22:46:42,Boiler Initialized,0
+10-03-2025 22:46:46,Boiler Ready,0
+10-03-2025 22:46:47,Start Pre-Purge,0.000000
+10-03-2025 22:46:47,Start Pre-Purge,0.100944
+10-03-2025 22:46:47,Start Pre-Purge,0.200664
+10-03-2025 22:46:47,Start Pre-Purge,0.300683
+10-03-2025 22:46:47,Start Pre-Purge,0.400657
+10-03-2025 22:46:47,Start Pre-Purge,0.501911
+10-03-2025 22:46:47,Start Pre-Purge,0.602210
+10-03-2025 22:46:47,Start Pre-Purge,0.702440
+10-03-2025 22:46:47,Start Pre-Purge,0.802612
+10-03-2025 22:46:47,Start Pre-Purge,0.903061
+10-03-2025 22:46:47,Start Pre-Purge,1.003230
+10-03-2025 22:46:47,Start Pre-Purge,1.104572
+10-03-2025 22:46:47,Start Pre-Purge,1.204394
+10-03-2025 22:46:47,Start Pre-Purge,1.305304
+10-03-2025 22:46:47,Start Pre-Purge,1.406236
+10-03-2025 22:46:47,Start Pre-Purge,1.506454
+10-03-2025 22:46:47,Start Pre-Purge,1.607584
+10-03-2025 22:46:47,Start Pre-Purge,1.708695
+10-03-2025 22:46:47,Start Pre-Purge,1.808754
+10-03-2025 22:46:47,Start Pre-Purge,1.908977
+10-03-2025 22:46:47,Start Pre-Purge,2.009168
+10-03-2025 22:46:47,Start Pre-Purge,2.109874
+10-03-2025 22:46:47,Start Pre-Purge,2.210142
+10-03-2025 22:46:47,Start Pre-Purge,2.311270
+10-03-2025 22:46:47,Start Pre-Purge,2.413005
+10-03-2025 22:46:47,Start Pre-Purge,2.513820
+10-03-2025 22:46:47,Start Pre-Purge,2.613921
+10-03-2025 22:46:47,Start Pre-Purge,2.714079
+10-03-2025 22:46:47,Start Pre-Purge,2.815779
+10-03-2025 22:46:47,Start Pre-Purge,2.917030
+10-03-2025 22:46:47,Start Pre-Purge,3.016754
+10-03-2025 22:46:47,Start Pre-Purge,3.116383
+10-03-2025 22:46:47,Start Pre-Purge,3.217736
+10-03-2025 22:46:47,Start Pre-Purge,3.317099
+10-03-2025 22:46:47,Start Pre-Purge,3.418482
+10-03-2025 22:46:47,Start Pre-Purge,3.518771
+10-03-2025 22:46:47,Start Pre-Purge,3.619321
+10-03-2025 22:46:47,Start Pre-Purge,3.720115
+10-03-2025 22:46:47,Start Pre-Purge,3.820123
+10-03-2025 22:46:47,Start Pre-Purge,3.920197
+10-03-2025 22:46:47,Start Pre-Purge,4.020954
+10-03-2025 22:46:47,Start Pre-Purge,4.120346
+10-03-2025 22:46:47,Start Pre-Purge,4.220567
+10-03-2025 22:46:47,Start Pre-Purge,4.320775
+10-03-2025 22:46:47,Start Pre-Purge,4.421251
+10-03-2025 22:46:47,Start Pre-Purge,4.524636
+10-03-2025 22:46:47,Start Pre-Purge,4.624697
+10-03-2025 22:46:47,Start Pre-Purge,4.725223
+10-03-2025 22:46:47,Start Pre-Purge,4.825683
+10-03-2025 22:46:47,Start Pre-Purge,4.926398
+10-03-2025 22:46:47,Start Pre-Purge,5.026730
+10-03-2025 22:46:47,Start Pre-Purge,5.127178
+10-03-2025 22:46:47,Start Pre-Purge,5.228564
+10-03-2025 22:46:47,Start Pre-Purge,5.328923
+10-03-2025 22:46:47,Start Pre-Purge,5.430785
+10-03-2025 22:46:47,Start Pre-Purge,5.530431
+10-03-2025 22:46:47,Start Pre-Purge,5.631543
+10-03-2025 22:46:47,Start Pre-Purge,5.731668
+10-03-2025 22:46:47,Start Pre-Purge,5.831320
+10-03-2025 22:46:47,Start Pre-Purge,5.931976
+10-03-2025 22:46:47,Start Pre-Purge,6.032755
+10-03-2025 22:46:47,Start Pre-Purge,6.132781
+10-03-2025 22:46:47,Start Pre-Purge,6.233754
+10-03-2025 22:46:47,Start Pre-Purge,6.333584
+10-03-2025 22:46:47,Start Pre-Purge,6.433359
+10-03-2025 22:46:47,Start Pre-Purge,6.533140
+10-03-2025 22:46:47,Start Pre-Purge,6.634164
+10-03-2025 22:46:47,Start Pre-Purge,6.734637
+10-03-2025 22:46:47,Start Pre-Purge,6.834050
+10-03-2025 22:46:47,Start Pre-Purge,6.935160
+10-03-2025 22:46:47,Start Pre-Purge,7.035995
+10-03-2025 22:46:47,Start Pre-Purge,7.135693
+10-03-2025 22:46:47,Start Pre-Purge,7.237081
+10-03-2025 22:46:47,Start Pre-Purge,7.337638
+10-03-2025 22:46:47,Start Pre-Purge,7.437100
+10-03-2025 22:46:47,Start Pre-Purge,7.539175
+10-03-2025 22:46:47,Start Pre-Purge,7.640621
+10-03-2025 22:46:47,Start Pre-Purge,7.740569
+10-03-2025 22:46:47,Start Pre-Purge,7.841112
+10-03-2025 22:46:47,Start Pre-Purge,7.942013
+10-03-2025 22:46:47,Start Pre-Purge,8.041225
+10-03-2025 22:46:47,Start Pre-Purge,8.142959
+10-03-2025 22:46:47,Start Pre-Purge,8.243034
+10-03-2025 22:46:47,Start Pre-Purge,8.343007
+10-03-2025 22:46:47,Start Pre-Purge,8.443329
+10-03-2025 22:46:47,Start Pre-Purge,8.543421
+10-03-2025 22:46:47,Start Pre-Purge,8.644089
+10-03-2025 22:46:47,Start Pre-Purge,8.744639
+10-03-2025 22:46:47,Start Pre-Purge,8.844295
+10-03-2025 22:46:47,Start Pre-Purge,8.945975
+10-03-2025 22:46:47,Start Pre-Purge,9.046537
+10-03-2025 22:46:47,Start Pre-Purge,9.147366
+10-03-2025 22:46:47,Start Pre-Purge,9.249103
+10-03-2025 22:46:47,Start Pre-Purge,9.349771
+10-03-2025 22:46:47,Start Pre-Purge,9.449818
+10-03-2025 22:46:47,Start Pre-Purge,9.549481
+10-03-2025 22:46:47,Start Pre-Purge,9.649152
+10-03-2025 22:46:47,Start Pre-Purge,9.750344
+10-03-2025 22:46:47,Start Pre-Purge,9.850537
+10-03-2025 22:46:47,Start Pre-Purge,9.951168
+10-03-2025 22:46:57,Pre-Purge Completed,10.054007
+10-03-2025 22:46:59,Pilot On,True
+10-03-2025 22:47:00,Pilot Proved,55.102041
+10-03-2025 22:47:01,Forced Draft Fan On,True
+10-03-2025 22:47:02,Boiler Running,14.785522
+10-03-2025 22:47:02,Boiler Running,16.215423
+10-03-2025 22:47:02,Boiler Running,18.740687
+10-03-2025 22:47:02,Boiler Running,20.855721
+10-03-2025 22:47:02,Boiler Running,20.855721
+10-03-2025 22:47:02,Boiler Running,21.777777
+10-03-2025 22:47:02,Boiler Running,22.620032
+10-03-2025 22:47:02,Boiler Running,23.390081
+10-03-2025 22:47:02,Boiler Running,25.668541
+10-03-2025 22:47:02,Boiler Running,26.649144
+10-03-2025 22:47:02,Boiler Running,29.651828
+10-03-2025 22:47:02,Boiler Running,29.651828
+10-03-2025 22:47:02,Boiler Running,30.031697
+10-03-2025 22:47:02,Boiler Running,34.511236
+10-03-2025 22:47:02,Boiler Running,34.511236
+10-03-2025 22:47:02,Boiler Running,36.558472
+10-03-2025 22:47:02,Boiler Running,36.558472
+10-03-2025 22:47:02,Boiler Running,40.161278
+10-03-2025 22:47:02,Boiler Running,40.161278
+10-03-2025 22:47:02,Boiler Running,40.161278
+10-03-2025 22:47:02,Boiler Running,40.161278
+10-03-2025 22:47:02,Boiler Running,41.554060
+10-03-2025 22:47:02,Boiler Running,41.554060
+10-03-2025 22:47:03,Start Shutdown Purge,0.098237
+10-03-2025 22:47:03,Start Shutdown Purge,0.199235
+10-03-2025 22:47:03,Start Shutdown Purge,0.300486
+10-03-2025 22:47:03,Start Shutdown Purge,0.400744
+10-03-2025 22:47:03,Start Shutdown Purge,0.500366
+10-03-2025 22:47:03,Start Shutdown Purge,0.601622
+10-03-2025 22:47:03,Start Shutdown Purge,0.702312
+10-03-2025 22:47:03,Start Shutdown Purge,0.803597
+10-03-2025 22:47:03,Start Shutdown Purge,0.903365
+10-03-2025 22:47:03,Start Shutdown Purge,1.003180
+10-03-2025 22:47:03,Start Shutdown Purge,1.103981
+10-03-2025 22:47:03,Start Shutdown Purge,1.204371
+10-03-2025 22:47:03,Start Shutdown Purge,1.304642
+10-03-2025 22:47:03,Start Shutdown Purge,1.404350
+10-03-2025 22:47:03,Start Shutdown Purge,1.504382
+10-03-2025 22:47:03,Start Shutdown Purge,1.604617
+10-03-2025 22:47:03,Start Shutdown Purge,1.704406
+10-03-2025 22:47:03,Start Shutdown Purge,1.804140
+10-03-2025 22:47:03,Start Shutdown Purge,1.904344
+10-03-2025 22:47:03,Start Shutdown Purge,2.004630
+10-03-2025 22:47:03,Start Shutdown Purge,2.104940
+10-03-2025 22:47:03,Start Shutdown Purge,2.205755
+10-03-2025 22:47:03,Start Shutdown Purge,2.306350
+10-03-2025 22:47:03,Start Shutdown Purge,2.407252
+10-03-2025 22:47:03,Start Shutdown Purge,2.508321
+10-03-2025 22:47:03,Start Shutdown Purge,2.609653
+10-03-2025 22:47:03,Start Shutdown Purge,2.710580
+10-03-2025 22:47:03,Start Shutdown Purge,2.811567
+10-03-2025 22:47:03,Start Shutdown Purge,2.911207
+10-03-2025 22:47:03,Start Shutdown Purge,3.012165
+10-03-2025 22:47:03,Start Shutdown Purge,3.113916
+10-03-2025 22:47:03,Start Shutdown Purge,3.213381
+10-03-2025 22:47:03,Start Shutdown Purge,3.315266
+10-03-2025 22:47:03,Start Shutdown Purge,3.415231
+10-03-2025 22:47:03,Start Shutdown Purge,3.515640
+10-03-2025 22:47:03,Start Shutdown Purge,3.616623
+10-03-2025 22:47:03,Start Shutdown Purge,3.717028
+10-03-2025 22:47:03,Start Shutdown Purge,3.817827
+10-03-2025 22:47:03,Start Shutdown Purge,3.917361
+10-03-2025 22:47:03,Start Shutdown Purge,4.018280
+10-03-2025 22:47:03,Start Shutdown Purge,4.119388
+10-03-2025 22:47:03,Start Shutdown Purge,4.220126
+10-03-2025 22:47:03,Start Shutdown Purge,4.321403
+10-03-2025 22:47:03,Start Shutdown Purge,4.421551
+10-03-2025 22:47:03,Start Shutdown Purge,4.521643
+10-03-2025 22:47:08,Start Shutdown Purge,0.061476
+10-03-2025 22:47:08,Start Shutdown Purge,0.162253
+10-03-2025 22:47:08,Start Shutdown Purge,0.263553
+10-03-2025 22:47:08,Start Shutdown Purge,0.364261
+10-03-2025 22:47:08,Start Shutdown Purge,0.465865
+10-03-2025 22:47:08,Start Shutdown Purge,0.565885
+10-03-2025 22:47:08,Start Shutdown Purge,0.665986
+10-03-2025 22:47:08,Start Shutdown Purge,0.765230
+10-03-2025 22:47:09,Start Shutdown Purge,0.095795
+10-03-2025 22:47:09,Start Shutdown Purge,0.196480
+10-03-2025 22:47:09,Start Shutdown Purge,0.296979
+10-03-2025 22:47:09,Start Shutdown Purge,0.398167
+10-03-2025 22:47:09,Start Shutdown Purge,0.498292
+10-03-2025 22:47:09,Start Shutdown Purge,0.598871
+10-03-2025 22:47:09,Start Shutdown Purge,0.698797
+10-03-2025 22:47:09,Start Shutdown Purge,0.798928
+10-03-2025 22:47:09,Start Shutdown Purge,0.899554
+10-03-2025 22:47:10,Start Shutdown Purge,0.097951
+10-03-2025 22:47:10,Start Shutdown Purge,0.198124
+10-03-2025 22:47:10,Start Shutdown Purge,0.298321
+10-03-2025 22:47:10,Start Shutdown Purge,0.398686
+10-03-2025 22:47:10,Start Shutdown Purge,0.499530
+10-03-2025 22:47:10,Start Shutdown Purge,0.601283
+10-03-2025 22:47:10,Start Shutdown Purge,0.702195
+10-03-2025 22:47:10,Start Shutdown Purge,0.802436
+10-03-2025 22:47:10,Start Shutdown Purge,0.902696
+10-03-2025 22:47:10,Start Shutdown Purge,1.003229
+10-03-2025 22:47:10,Start Shutdown Purge,1.105634
+10-03-2025 22:47:10,Start Shutdown Purge,1.205928
+10-03-2025 22:47:10,Start Shutdown Purge,1.305836
+10-03-2025 22:47:10,Start Shutdown Purge,1.405868
+10-03-2025 22:47:10,Start Shutdown Purge,1.506245
+10-03-2025 22:47:10,Start Shutdown Purge,1.605992
+10-03-2025 22:47:10,Start Shutdown Purge,1.705718
+10-03-2025 22:47:10,Start Shutdown Purge,1.806399
+10-03-2025 22:47:10,Start Shutdown Purge,1.906583
+10-03-2025 22:47:10,Start Shutdown Purge,2.006546
+10-03-2025 22:47:10,Start Shutdown Purge,2.106454
+10-03-2025 22:47:10,Start Shutdown Purge,2.207398
+10-03-2025 22:47:10,Start Shutdown Purge,2.308715
+10-03-2025 22:47:10,Start Shutdown Purge,2.408913
+10-03-2025 22:47:10,Start Shutdown Purge,2.509568
+10-03-2025 22:47:10,Start Shutdown Purge,2.609651
+10-03-2025 22:47:10,Start Shutdown Purge,2.711176
+10-03-2025 22:47:10,Start Shutdown Purge,2.812224
+10-03-2025 22:47:10,Start Shutdown Purge,2.911479
+10-03-2025 22:47:10,Start Shutdown Purge,3.013107
+10-03-2025 22:47:10,Start Shutdown Purge,3.115144
+10-03-2025 22:47:10,Start Shutdown Purge,3.215187
+10-03-2025 22:47:10,Start Shutdown Purge,3.315481
+10-03-2025 22:47:10,Start Shutdown Purge,3.415422
+10-03-2025 22:47:10,Start Shutdown Purge,3.516045
+10-03-2025 22:47:10,Start Shutdown Purge,3.616104
+10-03-2025 22:47:10,Start Shutdown Purge,3.716208
+10-03-2025 22:47:10,Start Shutdown Purge,3.816419
+10-03-2025 22:47:10,Start Shutdown Purge,3.916805
+10-03-2025 22:47:10,Start Shutdown Purge,4.017270
+10-03-2025 22:47:10,Start Shutdown Purge,4.118026
+10-03-2025 22:47:10,Start Shutdown Purge,4.218007
+10-03-2025 22:47:10,Start Shutdown Purge,4.317679
+10-03-2025 22:47:10,Start Shutdown Purge,4.418969
+10-03-2025 22:47:10,Start Shutdown Purge,4.518411
+10-03-2025 22:47:10,Start Shutdown Purge,4.618459
+10-03-2025 22:47:10,Start Shutdown Purge,4.720610
+10-03-2025 22:47:10,Start Shutdown Purge,4.820797
+10-03-2025 22:47:10,Start Shutdown Purge,4.921575
+10-03-2025 22:47:10,Start Shutdown Purge,5.023188
+10-03-2025 22:47:10,Start Shutdown Purge,5.123019
+Time String,Event String,Event data String
+10-03-2025 22:47:19,Boiler Initialized,0
+10-03-2025 22:47:22,Boiler Ready,0
+10-03-2025 22:47:24,Start Pre-Purge,0.000000
+10-03-2025 22:47:24,Start Pre-Purge,0.098897
+10-03-2025 22:47:24,Start Pre-Purge,0.199576
+10-03-2025 22:47:24,Start Pre-Purge,0.298977
+10-03-2025 22:47:24,Start Pre-Purge,0.399249
+10-03-2025 22:47:24,Start Pre-Purge,0.499656
+10-03-2025 22:47:24,Start Pre-Purge,0.601472
+10-03-2025 22:47:24,Start Pre-Purge,0.701626
+10-03-2025 22:47:24,Start Pre-Purge,0.802590
+10-03-2025 22:47:24,Start Pre-Purge,0.902845
+10-03-2025 22:47:24,Start Pre-Purge,1.003885
+10-03-2025 22:47:24,Start Pre-Purge,1.103988
+10-03-2025 22:47:24,Start Pre-Purge,1.204337
+10-03-2025 22:47:24,Start Pre-Purge,1.304608
+10-03-2025 22:47:24,Start Pre-Purge,1.405075
+10-03-2025 22:47:24,Start Pre-Purge,1.505760
+10-03-2025 22:47:24,Start Pre-Purge,1.605662
+10-03-2025 22:47:24,Start Pre-Purge,1.707407
+10-03-2025 22:47:24,Start Pre-Purge,1.809136
+10-03-2025 22:47:24,Start Pre-Purge,1.908720
+10-03-2025 22:47:24,Start Pre-Purge,2.010465
+10-03-2025 22:47:24,Start Pre-Purge,2.111346
+10-03-2025 22:47:24,Start Pre-Purge,2.212282
+10-03-2025 22:47:24,Start Pre-Purge,2.312824
+10-03-2025 22:47:24,Start Pre-Purge,2.412724
+10-03-2025 22:47:24,Start Pre-Purge,2.513365
+10-03-2025 22:47:24,Start Pre-Purge,2.613919
+10-03-2025 22:47:24,Start Pre-Purge,2.714942
+10-03-2025 22:47:24,Start Pre-Purge,2.815864
+10-03-2025 22:47:24,Start Pre-Purge,2.916391
+10-03-2025 22:47:24,Start Pre-Purge,3.016865
+10-03-2025 22:47:24,Start Pre-Purge,3.116831
+10-03-2025 22:47:24,Start Pre-Purge,3.217383
+10-03-2025 22:47:24,Start Pre-Purge,3.319215
+10-03-2025 22:47:24,Start Pre-Purge,3.420302
+10-03-2025 22:47:24,Start Pre-Purge,3.519862
+10-03-2025 22:47:24,Start Pre-Purge,3.620096
+10-03-2025 22:47:24,Start Pre-Purge,3.720047
+10-03-2025 22:47:24,Start Pre-Purge,3.820427
+10-03-2025 22:47:24,Start Pre-Purge,3.921364
+10-03-2025 22:47:24,Start Pre-Purge,4.022055
+10-03-2025 22:47:24,Start Pre-Purge,4.122181
+10-03-2025 22:47:24,Start Pre-Purge,4.222049
+10-03-2025 22:47:24,Start Pre-Purge,4.322304
+10-03-2025 22:47:24,Start Pre-Purge,4.422073
+10-03-2025 22:47:24,Start Pre-Purge,4.522242
+10-03-2025 22:47:24,Start Pre-Purge,4.622090
+10-03-2025 22:47:24,Start Pre-Purge,4.721996
+10-03-2025 22:47:24,Start Pre-Purge,4.822483
+10-03-2025 22:47:24,Start Pre-Purge,4.922232
+10-03-2025 22:47:24,Start Pre-Purge,5.022553
+10-03-2025 22:47:24,Start Pre-Purge,5.122945
+10-03-2025 22:47:24,Start Pre-Purge,5.223359
+10-03-2025 22:47:24,Start Pre-Purge,5.324058
+10-03-2025 22:47:24,Start Pre-Purge,5.424515
+10-03-2025 22:47:24,Start Pre-Purge,5.523812
+10-03-2025 22:47:24,Start Pre-Purge,5.623804
+10-03-2025 22:47:24,Start Pre-Purge,5.724805
+10-03-2025 22:47:24,Start Pre-Purge,5.825651
+10-03-2025 22:47:24,Start Pre-Purge,5.925691
+10-03-2025 22:47:24,Start Pre-Purge,6.026927
+10-03-2025 22:47:24,Start Pre-Purge,6.128400
+10-03-2025 22:47:24,Start Pre-Purge,6.229411
+10-03-2025 22:47:24,Start Pre-Purge,6.329960
+10-03-2025 22:47:24,Start Pre-Purge,6.429577
+10-03-2025 22:47:24,Start Pre-Purge,6.529740
+10-03-2025 22:47:24,Start Pre-Purge,6.631540
+10-03-2025 22:47:24,Start Pre-Purge,6.733302
+10-03-2025 22:47:24,Start Pre-Purge,6.833955
+10-03-2025 22:47:24,Start Pre-Purge,6.934153
+10-03-2025 22:47:24,Start Pre-Purge,7.034910
+10-03-2025 22:47:24,Start Pre-Purge,7.135813
+10-03-2025 22:47:24,Start Pre-Purge,7.237523
+10-03-2025 22:47:24,Start Pre-Purge,7.338806
+10-03-2025 22:47:24,Start Pre-Purge,7.440216
+10-03-2025 22:47:24,Start Pre-Purge,7.540228
+10-03-2025 22:47:24,Start Pre-Purge,7.640172
+10-03-2025 22:47:24,Start Pre-Purge,7.739761
+10-03-2025 22:47:24,Start Pre-Purge,7.839899
+10-03-2025 22:47:24,Start Pre-Purge,7.940334
+10-03-2025 22:47:24,Start Pre-Purge,8.040615
+10-03-2025 22:47:24,Start Pre-Purge,8.141399
+10-03-2025 22:47:24,Start Pre-Purge,8.241183
+10-03-2025 22:47:24,Start Pre-Purge,8.341804
+10-03-2025 22:47:24,Start Pre-Purge,8.441865
+10-03-2025 22:47:24,Start Pre-Purge,8.542221
+10-03-2025 22:47:24,Start Pre-Purge,8.642505
+10-03-2025 22:47:24,Start Pre-Purge,8.742964
+10-03-2025 22:47:24,Start Pre-Purge,8.843558
+10-03-2025 22:47:24,Start Pre-Purge,8.944489
+10-03-2025 22:47:24,Start Pre-Purge,9.044160
+10-03-2025 22:47:24,Start Pre-Purge,9.144219
+10-03-2025 22:47:24,Start Pre-Purge,9.244695
+10-03-2025 22:47:24,Start Pre-Purge,9.344685
+10-03-2025 22:47:24,Start Pre-Purge,9.444772
+10-03-2025 22:47:24,Start Pre-Purge,9.546326
+10-03-2025 22:47:24,Start Pre-Purge,9.646118
+10-03-2025 22:47:24,Start Pre-Purge,9.745832
+10-03-2025 22:47:24,Start Pre-Purge,9.845557
+10-03-2025 22:47:24,Start Pre-Purge,9.947305
+10-03-2025 22:47:34,Pre-Purge Completed,10.049311
+10-03-2025 22:47:34,Pre-Purge Completed,10.049311
+10-03-2025 22:47:36,Pilot On,True
+10-03-2025 22:47:37,Pilot Proved,72.448980
+10-03-2025 22:47:38,Forced Draft Fan On,True
+10-03-2025 22:47:39,Boiler Running,18.534432
+10-03-2025 22:47:39,Boiler Running,21.545580
+10-03-2025 22:47:39,Boiler Running,26.744188
+10-03-2025 22:47:39,Boiler Running,33.571945
+10-03-2025 22:47:39,Boiler Running,33.571945
+10-03-2025 22:47:39,Boiler Running,38.705658
+10-03-2025 22:47:39,Boiler Running,38.705658
+10-03-2025 22:47:39,Boiler Running,40.851138
+10-03-2025 22:47:39,Boiler Running,40.851138
+10-03-2025 22:47:39,Boiler Running,42.691782
+10-03-2025 22:47:39,Boiler Running,42.691782
+10-03-2025 22:47:39,Boiler Running,45.888375
+10-03-2025 22:47:39,Boiler Running,45.888375
+10-03-2025 22:47:39,Boiler Running,45.888375
+10-03-2025 22:47:39,Boiler Running,45.888375
+10-03-2025 22:47:39,Boiler Running,46.669151
+10-03-2025 22:47:39,Boiler Running,46.669151
+10-03-2025 22:47:39,Boiler Running,46.609036
+10-03-2025 22:47:39,Boiler Running,47.305002
+10-03-2025 22:47:41,Start Shutdown Purge,0.098469
+10-03-2025 22:47:41,Start Shutdown Purge,0.199409
+10-03-2025 22:47:41,Start Shutdown Purge,0.299342
+10-03-2025 22:47:41,Start Shutdown Purge,0.399264
+10-03-2025 22:47:41,Start Shutdown Purge,0.499896
+10-03-2025 22:47:41,Start Shutdown Purge,0.600053
+10-03-2025 22:47:41,Start Shutdown Purge,0.701144
+10-03-2025 22:47:41,Start Shutdown Purge,0.801076
+10-03-2025 22:47:41,Start Shutdown Purge,0.902831
+10-03-2025 22:47:41,Start Shutdown Purge,1.002906
+10-03-2025 22:47:41,Start Shutdown Purge,1.102812
+10-03-2025 22:47:41,Start Shutdown Purge,1.203671
+10-03-2025 22:47:41,Start Shutdown Purge,1.303355
+10-03-2025 22:47:41,Start Shutdown Purge,1.404043
+10-03-2025 22:47:41,Start Shutdown Purge,1.504638
+10-03-2025 22:47:41,Start Shutdown Purge,1.605011
+10-03-2025 22:47:41,Start Shutdown Purge,1.705172
+10-03-2025 22:47:41,Start Shutdown Purge,1.805260
+10-03-2025 22:47:41,Start Shutdown Purge,1.906330
+10-03-2025 22:47:41,Start Shutdown Purge,2.007275
+10-03-2025 22:47:41,Start Shutdown Purge,2.107128
+10-03-2025 22:47:41,Start Shutdown Purge,2.208879
+10-03-2025 22:47:41,Start Shutdown Purge,2.309370
+10-03-2025 22:47:41,Start Shutdown Purge,2.422226
+10-03-2025 22:47:41,Start Shutdown Purge,2.522517
+10-03-2025 22:47:41,Start Shutdown Purge,2.623012
+10-03-2025 22:47:41,Start Shutdown Purge,2.723723
+10-03-2025 22:47:41,Start Shutdown Purge,2.823267
+10-03-2025 22:47:41,Start Shutdown Purge,2.923732
+10-03-2025 22:47:41,Start Shutdown Purge,3.023112
+10-03-2025 22:47:41,Start Shutdown Purge,3.124576
+10-03-2025 22:47:41,Start Shutdown Purge,3.225343
+10-03-2025 22:47:41,Start Shutdown Purge,3.326630
+10-03-2025 22:47:41,Start Shutdown Purge,3.426990
+10-03-2025 22:47:41,Start Shutdown Purge,3.528693
+10-03-2025 22:47:41,Start Shutdown Purge,3.629486
+10-03-2025 22:47:41,Start Shutdown Purge,3.730199
+10-03-2025 22:47:41,Start Shutdown Purge,3.831380
+10-03-2025 22:47:41,Start Shutdown Purge,3.931024
+10-03-2025 22:47:41,Start Shutdown Purge,4.031305
+10-03-2025 22:47:41,Start Shutdown Purge,4.132398
+10-03-2025 22:47:41,Start Shutdown Purge,4.232158
+10-03-2025 22:47:41,Start Shutdown Purge,4.332471
+10-03-2025 22:47:41,Start Shutdown Purge,4.432930
+10-03-2025 22:47:41,Start Shutdown Purge,4.533694
+10-03-2025 22:47:41,Start Shutdown Purge,4.633052
+10-03-2025 22:47:41,Start Shutdown Purge,4.733819
+10-03-2025 22:47:41,Start Shutdown Purge,4.834468
+10-03-2025 22:47:41,Start Shutdown Purge,4.934218
+10-03-2025 22:47:41,Start Shutdown Purge,5.034612
+10-03-2025 22:47:41,Start Shutdown Purge,5.135524
+10-03-2025 22:47:41,Start Shutdown Purge,5.235335
+10-03-2025 22:47:41,Start Shutdown Purge,5.336057
+10-03-2025 22:47:41,Start Shutdown Purge,5.438270
+10-03-2025 22:47:41,Start Shutdown Purge,5.537787
+10-03-2025 22:47:41,Start Shutdown Purge,5.637284
+10-03-2025 22:47:41,Start Shutdown Purge,5.737711
+10-03-2025 22:47:41,Start Shutdown Purge,5.837720
+10-03-2025 22:47:41,Start Shutdown Purge,5.938790
+10-03-2025 22:47:41,Start Shutdown Purge,6.038048
+10-03-2025 22:47:41,Start Shutdown Purge,6.138872
+10-03-2025 22:47:41,Start Shutdown Purge,6.238403
+10-03-2025 22:47:41,Start Shutdown Purge,6.339854
+10-03-2025 22:47:41,Start Shutdown Purge,6.439686
+10-03-2025 22:47:41,Start Shutdown Purge,6.539461
+10-03-2025 22:47:41,Start Shutdown Purge,6.640662
+10-03-2025 22:47:41,Start Shutdown Purge,6.741751
+10-03-2025 22:47:41,Start Shutdown Purge,6.842171
+10-03-2025 22:47:41,Start Shutdown Purge,6.942928
+10-03-2025 22:47:41,Start Shutdown Purge,7.043457
+10-03-2025 22:47:41,Start Shutdown Purge,7.144244
+10-03-2025 22:47:41,Start Shutdown Purge,7.245542
+10-03-2025 22:47:41,Start Shutdown Purge,7.346464
+10-03-2025 22:47:41,Start Shutdown Purge,7.446023
+10-03-2025 22:47:41,Start Shutdown Purge,7.546451
+10-03-2025 22:47:41,Start Shutdown Purge,7.647111
+10-03-2025 22:47:41,Start Shutdown Purge,7.747229
+10-03-2025 22:47:41,Start Shutdown Purge,7.847862
+10-03-2025 22:47:41,Start Shutdown Purge,7.947183
+10-03-2025 22:47:41,Start Shutdown Purge,8.047414
+10-03-2025 22:47:41,Start Shutdown Purge,8.147602
+10-03-2025 22:47:41,Start Shutdown Purge,8.248165
+10-03-2025 22:47:41,Start Shutdown Purge,8.348250
+10-03-2025 22:47:41,Start Shutdown Purge,8.449430
+10-03-2025 22:47:41,Start Shutdown Purge,8.549574
+10-03-2025 22:47:41,Start Shutdown Purge,8.650661
+10-03-2025 22:47:41,Start Shutdown Purge,8.750369
+10-03-2025 22:47:41,Start Shutdown Purge,8.851082
+10-03-2025 22:47:41,Start Shutdown Purge,8.952282
+10-03-2025 22:47:41,Start Shutdown Purge,9.052354
+10-03-2025 22:47:41,Start Shutdown Purge,9.152034
+10-03-2025 22:47:41,Start Shutdown Purge,9.253675
+10-03-2025 22:47:41,Start Shutdown Purge,9.353607
+10-03-2025 22:47:41,Start Shutdown Purge,9.454701
+10-03-2025 22:47:41,Start Shutdown Purge,9.554434
+10-03-2025 22:47:41,Start Shutdown Purge,9.654225
+10-03-2025 22:47:41,Start Shutdown Purge,9.755793
+10-03-2025 22:47:41,Start Shutdown Purge,9.856484
+10-03-2025 22:47:41,Start Shutdown Purge,9.956542
+10-03-2025 22:47:51,Boiler Initialized,0
