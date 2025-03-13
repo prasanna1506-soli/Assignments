@@ -17,6 +17,9 @@
 		<Item Name="Drivers" Type="Folder" URL="../Drivers">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Log_Files" Type="Folder" URL="../Log_Files">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="LV2" Type="Folder" URL="../LV2">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
