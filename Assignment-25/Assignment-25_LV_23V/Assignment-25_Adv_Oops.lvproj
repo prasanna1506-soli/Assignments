@@ -11,17 +11,49 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Classes" Type="Folder" URL="../Classes">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Classes" Type="Folder">
+			<Item Name="Calculator" Type="Folder">
+				<Item Name="Children" Type="Folder">
+					<Item Name="Addition" Type="Folder">
+						<Item Name="Addition.lvclass" Type="LVClass" URL="../Classes/Calculator/Children/Addition/Addition.lvclass"/>
+					</Item>
+					<Item Name="Division" Type="Folder">
+						<Item Name="Division.lvclass" Type="LVClass" URL="../Classes/Calculator/Children/Division/Division.lvclass"/>
+					</Item>
+					<Item Name="Multiplication" Type="Folder">
+						<Item Name="Multiplication.lvclass" Type="LVClass" URL="../Classes/Calculator/Children/Multiplication/Multiplication.lvclass"/>
+					</Item>
+					<Item Name="Subtraction" Type="Folder">
+						<Item Name="Subtraction.lvclass" Type="LVClass" URL="../Classes/Calculator/Children/Subtraction/Subtraction.lvclass"/>
+					</Item>
+				</Item>
+				<Item Name="Calculator.lvclass" Type="LVClass" URL="../Classes/Calculator/Calculator.lvclass"/>
+				<Item Name="Calculator.lvproj" Type="Document" URL="../Classes/Calculator/Calculator.lvproj"/>
+			</Item>
 		</Item>
-		<Item Name="Controls" Type="Folder" URL="../Controls">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Calculator_Data.ctl" Type="VI" URL="../Controls/Calculator_Data.ctl"/>
+			<Item Name="INI_Operation_Select.ctl" Type="VI" URL="../Controls/INI_Operation_Select.ctl"/>
+			<Item Name="Main_Module_Data.ctl" Type="VI" URL="../Controls/Main_Module_Data.ctl"/>
+			<Item Name="Object_and_instance.ctl" Type="VI" URL="../Controls/Object_and_instance.ctl"/>
+			<Item Name="Object_Data.ctl" Type="VI" URL="../Controls/Object_Data.ctl"/>
+			<Item Name="Queue_Operation_Select.ctl" Type="VI" URL="../Controls/Queue_Operation_Select.ctl"/>
+			<Item Name="State_and_Data.ctl" Type="VI" URL="../Controls/State_and_Data.ctl"/>
 		</Item>
-		<Item Name="Drivers" Type="Folder" URL="../Drivers">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Drivers" Type="Folder">
+			<Item Name="INI_Driver.vi" Type="VI" URL="../Drivers/INI_Driver.vi"/>
+			<Item Name="QD_Calci.vi" Type="VI" URL="../Drivers/QD_Calci.vi"/>
+			<Item Name="QD_Main.vi" Type="VI" URL="../Drivers/QD_Main.vi"/>
+			<Item Name="Queue_Driver.vi" Type="VI" URL="../Drivers/Queue_Driver.vi"/>
 		</Item>
-		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Analyse_Error.vi" Type="VI" URL="../SubVIs/Analyse_Error.vi"/>
+			<Item Name="Bundle_N_Data.vi" Type="VI" URL="../SubVIs/Bundle_N_Data.vi"/>
+			<Item Name="Calculator.vi" Type="VI" URL="../SubVIs/Calculator.vi"/>
+			<Item Name="Get_Class_Name.vi" Type="VI" URL="../SubVIs/Get_Class_Name.vi"/>
+			<Item Name="Get_Files_in_Directory.vi" Type="VI" URL="../SubVIs/Get_Files_in_Directory.vi"/>
+			<Item Name="Initialize_Map.vi" Type="VI" URL="../SubVIs/Initialize_Map.vi"/>
+			<Item Name="Insert_into_Map.vi" Type="VI" URL="../SubVIs/Insert_into_Map.vi"/>
 		</Item>
 		<Item Name="Main_Module.vi" Type="VI" URL="../Main_Module.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
