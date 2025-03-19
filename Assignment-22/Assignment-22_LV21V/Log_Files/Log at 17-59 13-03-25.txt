@@ -1,0 +1,149 @@
+
+Time : 13-03-2025 17:59:21
+Battery Power : 94,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:22
+Battery Power : 92,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:23
+Battery Power : 90,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:24
+Battery Power : 88,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:25
+Battery Power : 86,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:26
+Battery Power : 84,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:29
+Battery Power : 78,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:30
+Battery Power : 77,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:31
+Battery Power : 75,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:32
+Battery Power : 73,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:33
+Battery Power : 71,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:34
+Battery Power : 69,Power Consumption : 2, Mode : Inverter,
+Time : 13-03-2025 17:59:35
+Battery Power : 65,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:36
+Battery Power : 61,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:37
+Battery Power : 57,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:38
+Battery Power : 53,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:39
+Battery Power : 49,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:54
+Battery Power : 4,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:55
+Battery Power : 4,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 17:59:56
+Battery Power : 10,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 17:59:57
+Battery Power : 16,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 17:59:58
+Battery Power : 22,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 17:59:59
+Battery Power : 28,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:00
+Battery Power : 34,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:01
+Battery Power : 40,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:02
+Battery Power : 46,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:03
+Battery Power : 52,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:04
+Battery Power : 58,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:05
+Battery Power : 64,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:06
+Battery Power : 70,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:07
+Battery Power : 76,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:08
+Battery Power : 82,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:09
+Battery Power : 88,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:10
+Battery Power : 94,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:11
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:12
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:13
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:14
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:15
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:16
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:17
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:18
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:19
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:20
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:21
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:22
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:23
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:24
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:25
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:26
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:27
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:28
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:29
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:30
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:31
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:32
+Battery Power : 100,Power Consumption : 4, Mode : AC Power Supply,
+Time : 13-03-2025 18:00:33
+Battery Power : 96,Power Consumption : 4, Mode : Inverter,
+Time : 13-03-2025 18:00:34
+Battery Power : 86,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:35
+Battery Power : 76,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:36
+Battery Power : 67,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:37
+Battery Power : 57,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:38
+Battery Power : 47,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:39
+Battery Power : 37,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:40
+Battery Power : 27,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:41
+Battery Power : 18,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:42
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:43
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:44
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:45
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:48
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:48
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:48
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:49
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
+Time : 13-03-2025 18:00:50
+Battery Power : 8,Power Consumption : 10, Mode : Inverter,
