@@ -11,8 +11,17 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Class" Type="Folder" URL="../Class">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Class" Type="Folder">
+			<Item Name="I2C" Type="Folder">
+				<Item Name="Children" Type="Folder">
+					<Item Name="7Bit_Address.lvclass" Type="LVClass" URL="../7Bit_Address/7Bit_Address.lvclass"/>
+					<Item Name="10Bit_Address.lvclass" Type="LVClass" URL="../10Bit_Address/10Bit_Address.lvclass"/>
+				</Item>
+				<Item Name="Controls" Type="Folder">
+					<Item Name="Mode.ctl" Type="VI" URL="../Class/I2C/Controls/Mode.ctl"/>
+				</Item>
+				<Item Name="I2C.lvclass" Type="LVClass" URL="../Class/I2C/I2C.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="Controls" Type="Folder" URL="../Controls">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -25,7 +34,17 @@
 		</Item>
 		<Item Name="Generate_SDA_SCL.vi" Type="VI" URL="../Generate_SDA_SCL.vi"/>
 		<Item Name="I2C_UI.vi" Type="VI" URL="../I2C_UI.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="QD_Calci.vi" Type="VI" URL="../../../../../Templates/Queue_Drivers/QD_Calci.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+			</Item>
+			<Item Name="Queue_Operation_Select.ctl" Type="VI" URL="../../../../../Templates/Controls/Queue_Operation_Select.ctl"/>
+			<Item Name="State_and_Data.ctl" Type="VI" URL="../../../../../Templates/Controls/State_and_Data.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
