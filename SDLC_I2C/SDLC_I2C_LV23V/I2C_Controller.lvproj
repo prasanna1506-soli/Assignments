@@ -32,6 +32,9 @@
 		<Item Name="Files" Type="Folder" URL="../Files">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Icon" Type="Folder">
+			<Item Name="i2c-bus-logo.ico" Type="Document" URL="../Icon/i2c-bus-logo.ico"/>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -43,6 +46,11 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Set Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Busy.vi"/>
+				<Item Name="Set Cursor (Cursor ID).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Cursor ID).vi"/>
+				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
+				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
+				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
@@ -62,7 +70,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{FFED2045-1104-45C4-B2D5-8A138535FD5F}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">I2C CONTROLLER.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/I2C CONTROLLER/I2C CONTROLLER.exe</Property>
@@ -82,10 +90,14 @@
 				<Property Name="Destination[5].destName" Type="Str">Controls</Property>
 				<Property Name="Destination[5].path" Type="Path">../builds/NI_AB_PROJECTNAME/I2C CONTROLLER/Controls</Property>
 				<Property Name="Destination[5].preserveHierarchy" Type="Bool">true</Property>
-				<Property Name="DestinationCount" Type="Int">6</Property>
+				<Property Name="Destination[6].destName" Type="Str">Files</Property>
+				<Property Name="Destination[6].path" Type="Path">../builds/NI_AB_PROJECTNAME/I2C CONTROLLER/Files</Property>
+				<Property Name="Destination[6].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="DestinationCount" Type="Int">7</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Icon/i2c-bus-logo.ico</Property>
 				<Property Name="Source[0].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[0].destinationIndex" Type="Int">1</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5B79DDAF-380E-473E-B1B3-6D584947642C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{98664929-69B6-4EE5-870E-1137D1F77103}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
@@ -123,7 +135,14 @@
 				<Property Name="Source[6].itemID" Type="Ref">/My Computer/I2C_UI.vi</Property>
 				<Property Name="Source[6].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[6].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">7</Property>
+				<Property Name="Source[7].Container.applyDestination" Type="Bool">true</Property>
+				<Property Name="Source[7].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[7].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[7].destinationIndex" Type="Int">6</Property>
+				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Files</Property>
+				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[7].type" Type="Str">Container</Property>
+				<Property Name="SourceCount" Type="Int">8</Property>
 				<Property Name="TgtF_companyName" Type="Str">Soliton Technologies Pvt Ltd</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">I2C CONTROLLER</Property>
 				<Property Name="TgtF_internalName" Type="Str">I2C CONTROLLER</Property>
