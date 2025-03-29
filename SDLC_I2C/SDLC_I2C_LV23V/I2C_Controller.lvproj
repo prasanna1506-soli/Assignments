@@ -23,20 +23,57 @@
 				<Item Name="I2C.lvclass" Type="LVClass" URL="../Class/I2C/I2C.lvclass"/>
 			</Item>
 		</Item>
-		<Item Name="Controls" Type="Folder" URL="../Controls">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Add_Target_Specification_.ctl" Type="VI" URL="../Controls/Add_Target_Specification_.ctl"/>
+			<Item Name="Button.ctl" Type="VI" URL="../Controls/Button.ctl"/>
+			<Item Name="Byte_Generator_Data.ctl" Type="VI" URL="../Controls/Byte_Generator_Data.ctl"/>
+			<Item Name="Converter_Operation_Select.ctl" Type="VI" URL="../Controls/Converter_Operation_Select.ctl"/>
+			<Item Name="Customized_Ring.ctl" Type="VI" URL="../Controls/Customized_Ring.ctl"/>
+			<Item Name="I2C_Data.ctl" Type="VI" URL="../Controls/I2C_Data.ctl"/>
+			<Item Name="I2C_Main_Data.ctl" Type="VI" URL="../Controls/I2C_Main_Data.ctl"/>
+			<Item Name="I2C_States.ctl" Type="VI" URL="../Controls/I2C_States.ctl"/>
+			<Item Name="I2C_Waveform_Data.ctl" Type="VI" URL="../Controls/I2C_Waveform_Data.ctl"/>
+			<Item Name="Queue_Operation.ctl" Type="VI" URL="../Controls/Queue_Operation.ctl"/>
+			<Item Name="State_and_Data.ctl" Type="VI" URL="../Controls/State_and_Data.ctl"/>
+			<Item Name="Target_Data.ctl" Type="VI" URL="../Controls/Target_Data.ctl"/>
+			<Item Name="Text_File_Operation_Select.ctl" Type="VI" URL="../Controls/Text_File_Operation_Select.ctl"/>
+			<Item Name="Time_Parameter.ctl" Type="VI" URL="../Controls/Time_Parameter.ctl"/>
+			<Item Name="UE_Driver_Operation_Select.ctl" Type="VI" URL="../Controls/UE_Driver_Operation_Select.ctl"/>
 		</Item>
-		<Item Name="Drivers" Type="Folder" URL="../Drivers">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Drivers" Type="Folder">
+			<Item Name="File_Driver" Type="Folder">
+				<Item Name="Text_File_Driver.vi" Type="VI" URL="../Drivers/File_Driver/Text_File_Driver.vi"/>
+			</Item>
+			<Item Name="Queue_Driver" Type="Folder">
+				<Item Name="QD_Add_Target.vi" Type="VI" URL="../Drivers/Queue_Driver/QD_Add_Target.vi"/>
+				<Item Name="QD_Main.vi" Type="VI" URL="../Drivers/Queue_Driver/QD_Main.vi"/>
+				<Item Name="Queue_Driver.vi" Type="VI" URL="../Drivers/Queue_Driver/Queue_Driver.vi"/>
+			</Item>
+			<Item Name="User_Event_Driver" Type="Folder">
+				<Item Name="UE_Driver.vi" Type="VI" URL="../Drivers/User_Event_Driver/UE_Driver.vi"/>
+			</Item>
 		</Item>
-		<Item Name="Files" Type="Folder" URL="../Files">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Files" Type="Folder">
+			<Item Name="App_Data_Store.csv" Type="Document" URL="../Files/App_Data_Store.csv"/>
 		</Item>
 		<Item Name="Icon" Type="Folder">
 			<Item Name="i2c-bus-logo.ico" Type="Document" URL="../Icon/i2c-bus-logo.ico"/>
 		</Item>
-		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Add_Target.vi" Type="VI" URL="../SubVIs/Add_Target.vi"/>
+			<Item Name="Analyse_Error.vi" Type="VI" URL="../SubVIs/Analyse_Error.vi"/>
+			<Item Name="Byte_Generator.vi" Type="VI" URL="../SubVIs/Byte_Generator.vi"/>
+			<Item Name="Convert_Class_Data.vi" Type="VI" URL="../SubVIs/Convert_Class_Data.vi"/>
+			<Item Name="Convert_Time_Parameter.vi" Type="VI" URL="../SubVIs/Convert_Time_Parameter.vi"/>
+			<Item Name="Converter.vi" Type="VI" URL="../SubVIs/Converter.vi"/>
+			<Item Name="Generate_SDA_SCL.vi" Type="VI" URL="../SubVIs/Generate_SDA_SCL.vi"/>
+			<Item Name="Get_Class_Name.vi" Type="VI" URL="../SubVIs/Get_Class_Name.vi"/>
+			<Item Name="Get_Files_in_Directory.vi" Type="VI" URL="../SubVIs/Get_Files_in_Directory.vi"/>
+			<Item Name="Get_Keys.vi" Type="VI" URL="../SubVIs/Get_Keys.vi"/>
+			<Item Name="I2C_to_Target_Spec.vi" Type="VI" URL="../SubVIs/I2C_to_Target_Spec.vi"/>
+			<Item Name="Search_And_Delete.vi" Type="VI" URL="../SubVIs/Search_And_Delete.vi"/>
+			<Item Name="Target_Spec_To_I2C.vi" Type="VI" URL="../SubVIs/Target_Spec_To_I2C.vi"/>
+			<Item Name="Transparent_VI.vi" Type="VI" URL="../SubVIs/Transparent_VI.vi"/>
 		</Item>
 		<Item Name="I2C_UI.vi" Type="VI" URL="../I2C_UI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -70,7 +107,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{FFED2045-1104-45C4-B2D5-8A138535FD5F}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">I2C CONTROLLER.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/I2C CONTROLLER/I2C CONTROLLER.exe</Property>
@@ -97,7 +134,7 @@
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Icon/i2c-bus-logo.ico</Property>
 				<Property Name="Source[0].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[0].destinationIndex" Type="Int">1</Property>
-				<Property Name="Source[0].itemID" Type="Str">{98664929-69B6-4EE5-870E-1137D1F77103}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{88FF28FE-A96D-471B-8114-5874D6CFF20B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
